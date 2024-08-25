@@ -11,11 +11,11 @@ export const GET = async () => {
       },
       {
         pathPattern: "/",
-        apiPath: "/api/actions/memo"
+        apiPath: "/api/actions/memo/"
       },
       {
         pathPattern: "/",
-        apiPath: "/api/actions/transfer-sol"
+        apiPath: "/api/actions/transfer-sol/"
       }
     ],
   };

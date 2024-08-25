@@ -1,0 +1,17 @@
+{
+    "rules": [
+      {
+        "pathPattern": "/",
+        "apiPath": "/api/actions/donate/"
+
+      },
+      {
+        "pathPattern": "/",
+        "apiPath": "/api/actions/memo/"
+      },
+      {
+        "pathPattern": "/",
+        "apiPath": "/api/actions/transfer-sol/"
+      }
+    ]
+  }
